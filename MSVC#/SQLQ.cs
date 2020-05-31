@@ -8,7 +8,7 @@ namespace MundoMusical.DB
 {
     public static class SQLQ
     {
-        public static string connectionString = "Data Source=CHECHESWAPPC; Initial Catalog=setsw; User ID=JJNAVARRETE; Password=123";
+        public static string connectionString = "Data Source=CHECHESWAPPC; Initial Catalog=setsw; User ID=JJNAVARRETE; Password=×××××";
 
         public static string login = "dbo.bdExistToken";
 
