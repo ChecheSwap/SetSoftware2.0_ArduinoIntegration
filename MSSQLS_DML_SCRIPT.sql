@@ -39,8 +39,8 @@ BEGIN
 SET @msg = @msg + CONVERT(VARCHAR,GETDATE());
 
 EXEC msdb.dbo.sp_send_dbmail  
-    @profile_name = 'JJNAVARRETE_INTERCERAMIC_DBA'  
-  , @recipients = 'chechenb19972@hotmail.com'  
+    @profile_name = 'JJNAVARRETE_INTERCERAMIC_SDP'  
+  , @recipients = 'cXXXX@hotmail.com'  
   , @subject = 'Set Software Agente de Inicio de Sesion'  
   , @body = @msg 
   , @importance ='HIGH'   
