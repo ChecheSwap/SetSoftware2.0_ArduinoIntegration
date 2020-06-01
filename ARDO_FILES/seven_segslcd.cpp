@@ -1,3 +1,7 @@
+  
+//JESUS JOSE NAVARRETE BACA @CHECHESWAP
+//NOVEMBER 2019
+
 #include "seven_segslcd.h"
 #include <Arduino.h>
 
