@@ -19,5 +19,4 @@ Visual C# POS V 2.0 with arduino integration and additional Microsoft SQL Server
 ![jesusjosenavarretebaca_setsoftware10](https://user-images.githubusercontent.com/21239660/83347346-a652b180-a2e1-11ea-8d29-3f5795382862.png)
 
 ![jesusjosenavarretebaca_setsoftware11](https://user-images.githubusercontent.com/21239660/83366171-b367b300-a36a-11ea-9e4c-e80bd5e6d1de.png)
-![jesusjosenavarretebaca_setsoftware12](https://user-images.githubusercontent.com/21239660/83366172-b498e000-a36a-11ea-9874-78b5bbd8e837.png)
 
