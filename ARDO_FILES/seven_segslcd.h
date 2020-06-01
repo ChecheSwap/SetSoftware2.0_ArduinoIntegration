@@ -1,3 +1,7 @@
+  
+//JESUS JOSE NAVARRETE BACA @CHECHESWAP
+//NOVEMBER 2019
+
 #ifndef SEVEN_SEGSLCD_H
 #define SEVEN_SEGSLCD_H
 enum scroll_direction{
