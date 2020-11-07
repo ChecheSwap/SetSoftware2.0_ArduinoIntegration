@@ -1,3 +1,14 @@
+  
+ /*---------------------------------------------------------------------
+  -                                                                    -
+  -                        Database Objects Script                     -
+  -                             MySQL RDBMS                            -
+  -             Ing. Jesús José Navarrete Baca (@checheswap)           -
+  -                            November 2020                           -
+  -                                                                    -
+  ---------------------------------------------------------------------*/
+  
+
 CREATE DATABASE  IF NOT EXISTS `puntodeventa` /*!40100 DEFAULT CHARACTER SET utf8 */;
 USE `puntodeventa`;
 
