@@ -4,7 +4,7 @@
   -                        Database Objects Script                     -
   -                             MySQL RDBMS                            -
   -             Ing. Jesús José Navarrete Baca (@checheswap)           -
-  -                            November 2020                           -
+  -                            November 2019                           -
   -                                                                    -
   ---------------------------------------------------------------------*/
   
