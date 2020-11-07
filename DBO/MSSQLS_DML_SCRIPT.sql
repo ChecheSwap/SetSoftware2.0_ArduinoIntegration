@@ -9,8 +9,8 @@
   ---------------------------------------------------------------------*/
     
 IF NOT EXISTS(SELECT 1
-			  FROM   SYS.DATABASES
-			  WHERE  name = 'setsw')
+              FROM   SYS.DATABASES
+	      WHERE  name = 'setsw')
 BEGIN
 	CREATE DATABASE setsw;
 END;
