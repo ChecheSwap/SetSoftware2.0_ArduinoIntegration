@@ -1,7 +1,13 @@
   
-//JESUS JOSE NAVARRETE BACA @CHECHESWAP
-//NOVEMBER 2019
-
+ /*---------------------------------------------------------------------
+  -                                                                    -
+  -                 Database Objects Script (DDL/DML)                  -
+  -                         Microsoft Sql Server                       -
+  -             Ing. Jesús José Navarrete Baca (@checheswap)           -
+  -                            November 2019                           -
+  -                                                                    -
+  ---------------------------------------------------------------------*/
+    
 IF NOT EXISTS(SELECT 1
 			  FROM   SYS.DATABASES
 			  WHERE  name = 'setsw')
