@@ -1,5 +1,13 @@
---JESUS JOSE NAVARRETE BACA @CHECHESWAP
---NOVEMBER 2019
+  
+ /*---------------------------------------------------------------------
+  -                                                                    -
+  -         Stored Procedure spgetclientesnombreapellido DDL           -
+  -                             MySQL RDBMS                            -
+  -             Ing. Jesús José Navarrete Baca (@checheswap)           -
+  -                            November 2019                           -
+  -                                                                    -
+  ---------------------------------------------------------------------*/
+  
 
 DROP PROCEDURE IF EXISTS spgetclientesnombreapellido;
 
